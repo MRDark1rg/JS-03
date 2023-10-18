@@ -65,17 +65,16 @@
 // }
 // console.log(multi(10, 8));
 
-const arrow = (a, b)=>{
-    return a ** b;
-}
+// const arrow = (a, b)=>{
+//     return a ** b;
+// }
 
-console.log(arrow (4, 38));
+// console.log(arrow (4, 38));
 
 //  es zemota aris errow fanqshenis magaliti !!!
 
 // igive shinaarsis aris qvemot dawerili ufro martivad iwereba:::
 
-// s
 
 
 
