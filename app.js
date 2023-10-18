@@ -42,17 +42,41 @@
 // console.log(...clone)
 // console.log(arr === clone)
 
-function sum(a, b, ...others) {
-    console.log (others);
-    let count = 0; 
-    for(let item of others) {
-        count+=item;
-    }
+// function sum(a, b, ...others) {
+//     console.log (others);
+//     let count = 0; 
+//     for(let item of others) {
+//         count+=item;
+//     }
 
-    return (a * b) / count;
+//     return (a * b) / count;
+// }
+
+// console.log(sum(1,2,3,4,5));
+
+// const sum = function(a, b){
+//     return a + b;
+// }
+// console.log(sum(4, 6));
+
+
+// const multi = function(a, b){
+//     return a * b;
+// }
+// console.log(multi(10, 8));
+
+const arrow = (a, b)=>{
+    return a ** b;
 }
 
-console.log(sum(1,2,3,4,5));
+console.log(arrow (4, 38));
+
+//  es zemota aris errow fanqshenis magaliti !!!
+
+// igive shinaarsis aris qvemot dawerili ufro martivad iwereba:::
+
+// s
+
 
 
 
